@@ -5,9 +5,10 @@ title: Awards
 ---
 
 ## Scholarships
-
-- Oct 2021: Excellentg Social Practice Team Award of  Central South University
-- Sep 2019: Excellent Student Scholarship of Central South University
+- Sep 2025: Outstanding Graduate Student of  Wuhan University
+- Sep 2025: First Prize Scholarship of Wuhan University
+- Oct 2021: Outstanding Social Practice Team Award of  Central South University
+- Sep 2019: Outstanding Student Scholarship of Central South University
 - Sep 2019: First Prize Scholarship of Central South University
 - Sep 2019: Zhangyuan Tungsten Industry Scholarship of hongyi Zhangyuan Tungsten Co., Ltd & Central South University
 
