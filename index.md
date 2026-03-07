@@ -8,7 +8,9 @@ layout: page
 
 Here is **Lingfeng Zhang (张凌风)**.<br>
 
-I am a graduate student majoring in **Psychiatry and Mental Health** at Renmin Hospital, **Wuhan University**, supervised by **[Prof. Zhongchun Liu](https://scholar.google.com/citations?user=W1uFFUAAAAAJ&hl=en)**. I received my Bachelor’s degree in Clinical Medicine from the **Xiangya School of Medicine**, **Central South University**.<br> 
+I am a graduate student majoring in **Psychiatry and Mental Health** at Renmin Hospital, **Wuhan University**, supervised by **[Prof. Zhongchun Liu](https://scholar.google.com/citations?user=W1uFFUAAAAAJ&hl=en)**. I received my Bachelor’s degree in Clinical Medicine from the **Xiangya School of Medicine**, **Central South University**. 
+
+I was a Visiting Student at the **Institute of Science and Technology for Brain-Inspired Intelligence (ISTBI)**, **Fudan University** from September 2025 to January 2026, working with **[Prof. Wei Cheng](https://scholar.google.co.jp/citations?user=uqDUElQAAAAJ&hl=en)** on **computational psychiatry** and **multi-omics analyses of major depressive disorder**.<br> 
 
 My research focuses on identifying potential biomarkers in **psychiatric disorders** through **scRNA-seq** and **multi-omics integration**.<br>
 
@@ -20,7 +22,7 @@ If you’re interested in collaborating or learning more about my work, feel fre
 ---
 ## Academic Background
 
-- **Sep 2023 – Present**: *M.S., Psychiatry and Mental Health*, Psychiatry and Mental Health, Wuhan University
+- **Sep 2023 – Present**: *M.S., Psychiatry and Mental Health*, Wuhan University
 - **Sep 2018 – Jun 2023**: *M.B., Clinical Medicine*, Central South University
 <br>
 
