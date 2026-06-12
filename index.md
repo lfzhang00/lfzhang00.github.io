@@ -6,19 +6,19 @@ layout: page
 
 <img src="https://lancelotzhang0124.github.io/Lingfeng.jpg" class="floatpic" width="360">
 
-Here is **Lingfeng Zhang (张凌风)**.<br>
+Here is **[<font color="#8B1E1E">Lingfeng Zhang</font>](https://scholar.google.ca/citations?user=NTIw1VIAAAAJ&hl=en)** (**<font color="#8B1E1E">张凌风</font>**; pronounced: **<font color="#8B1E1E">“Ling-fung Jang”</font>**).<br>
 
 I am a graduate student majoring in **Psychiatry and Mental Health** at Renmin Hospital, **Wuhan University**, supervised by **[Prof. Zhongchun Liu](https://scholar.google.com/citations?user=W1uFFUAAAAAJ&hl=en)**. I received my Bachelor’s degree in Clinical Medicine from the **Xiangya School of Medicine**, **Central South University**. 
 
-I was a Visiting Student at the **Institute of Science and Technology for Brain-Inspired Intelligence (ISTBI)**, **Fudan University** from September 2025 to January 2026, working with **[Prof. Wei Cheng](https://scholar.google.co.jp/citations?user=uqDUElQAAAAJ&hl=en)** on **computational psychiatry** and **multi-omics analyses of major depressive disorder**.<br> 
+I was a Visiting Student at the **Institute of Science and Technology for Brain-Inspired Intelligence (ISTBI)**, **Fudan University** from September 2025 to January 2026, working with **[Prof. Wei Cheng](https://scholar.google.com/citations?user=uqDUElQAAAAJ&hl=en)** on **<font color="#1F4E79">computational psychiatry</font>** and **<font color="#1F4E79">multi-omics analyses of major depressive disorder</font>**.<br> 
 
-My research focuses on identifying potential biomarkers in **psychiatric disorders** through **scRNA-seq** and **multi-omics integration**.<br>
+My research focuses on identifying potential biomarkers in **psychiatric disorders** through **<font color="#1F4E79">scRNA-seq</font>** and **<font color="#1F4E79">multi-omics integration</font>**.<br>
 
-I am expected to join the **Integrated Program in Neuroscience (IPN)** at **McGill University** as a PhD student, supervised by **[Prof. Gustavo Turecki](https://www.mcgill.ca/psychiatry/gustavo-turecki)**. My PhD research is expected to involve **single-cell genomics of major depressive disorder**.<br>
+I am expected to join the **Integrated Program in Neuroscience (IPN)** at **McGill University** as a PhD student, supervised by **[Prof. Gustavo Turecki](https://www.mcgill.ca/psychiatry/gustavo-turecki)**. My PhD research is expected to involve **<font color="#1F4E79">single-cell genomics of major depressive disorder</font>**.<br>
 
-If you’re interested in collaborating or learning more about my work, feel free to contact me at *[zlfwhu@outlook.com](mailto:zlfwhu@outlook.com)*.<br>
+**<font color="#8B1E1E"> If you’re interested in collaborating or learning more about my work, feel free to contact me at *[zlfwhu@outlook.com](mailto:zlfwhu@outlook.com)*</font>**.<br>
 
-**<font color="#990000"><i>If you are also interested in single-cell omics, postmortem brain transcriptomics, multi-omics integration, or computational psychiatry in psychiatric disorders, please feel free to contact me for discussion and collaboration.</i></font>** <br>
+---
 
 ---
 ## Academic Background
