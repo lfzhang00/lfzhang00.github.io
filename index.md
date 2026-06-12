@@ -16,7 +16,7 @@ My research focuses on identifying potential biomarkers in **psychiatric disorde
 
 I am expected to join the **Integrated Program in Neuroscience (IPN)** at **McGill University** as a PhD student, supervised by **[Prof. Gustavo Turecki](https://www.mcgill.ca/psychiatry/gustavo-turecki)**. My PhD research is expected to involve **<font color="#1F4E79">single-cell genomics of major depressive disorder</font>**.<br>
 
-**<font color="#8B1E1E"> If you’re interested in collaborating or learning more about my work, feel free to contact me at *[zlfwhu@outlook.com](mailto:zlfwhu@outlook.com)*</font>**.<br>
+<strong><font color="#8B1E1E">If you’re interested in collaborating or learning more about my work, feel free to contact me at <a href="mailto:zlfwhu@outlook.com"><i>zlfwhu@outlook.com</i></a>.</font></strong><br>
 
 ---
 
