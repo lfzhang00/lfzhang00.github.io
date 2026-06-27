@@ -8,7 +8,7 @@ title: Publications
 
 ## Journal Paper
 
-- **<u>Zhang, L.#</u>**, Duan, H., Lv, H., Ma, S., Xu, Y., Xie, X., Gong, Q., Kang, L., Chen, S., & Liu, Z.* (2025). **Multi-omics analysis reveals CXCL14+ inhibitory neuron dysfunction in major depressive disorder.** *Journal of Affective Disorders* [DOI](https://doi.org/10.1016/j.jad.2026.121586)
+- **<u>Zhang, L.#</u>**, Duan, H.#, Lv, H., Ma, S., Xu, Y., Xie, X., Gong, Q., Kang, L., Chen, S., & Liu, Z.* (2025). **Multi-omics analysis reveals CXCL14+ inhibitory neuron dysfunction in major depressive disorder.** *Journal of Affective Disorders* [DOI](https://doi.org/10.1016/j.jad.2026.121586)
 
 - **<u>Zhang, L.#</u>**, Chen, X., Xu, Y., Liu, J., & Liu, Z.* (2025). **Exploring glucagon-like peptide-1 receptor agonists as potential disease-modifying agent in psychiatric and neurodevelopmental conditions: evidence from a drug target Mendelian randomization.** *BMC Psychiatry*, 25(1), 484. [DOI](https://doi.org/10.1186/s12888-025-06914-0)
 
