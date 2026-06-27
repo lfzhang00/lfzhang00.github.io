@@ -16,13 +16,13 @@ My research focuses on understanding **<font color="#1F4E79">cell-type-specific 
 
 I am expected to join the **Integrated Program in Neuroscience (IPN)** at **McGill University** as a PhD student, supervised by **[Prof. Gustavo Turecki](https://www.mcgill.ca/psychiatry/gustavo-turecki)**. My PhD research is expected to focus on **<font color="#1F4E79">single-cell transcriptomics</font>** and **<font color="#1F4E79">molecular profiling of major depressive disorder</font>**.<br>
 
-<strong><font color="#8B1E1E">If you’re interested in collaborating or learning more about my work, feel free to contact me at <a href="mailto:zlfwhu@outlook.com"><i>zlfwhu@outlook.com</i></a>.</font></strong><br>
+<strong><font color="#8B1E1E">If you’re interested in collaborating or learning more about my work, feel free to contact me at <a href="mailto:lingfeng.zhang2@email.mcgill.ca"><i>lingfeng.zhang2@email.mcgill.ca</i></a>.</font></strong><br>
 
 ---
 
 ## Academic Background
 
-- **Sep 2023 – Jun 2026**: *M.S., Psychiatry and Mental Health*, Wuhan University
+- **Sep 2023 – Dec 2026**: *M.S., Psychiatry and Mental Health*, Wuhan University
 - **Sep 2018 – Jun 2023**: *M.B., Clinical Medicine*, Central South University
 
 <br>
@@ -51,10 +51,10 @@ I am expected to join the **Integrated Program in Neuroscience (IPN)** at **McGi
 >
 > *&ensp;By integrating postmortem brain transcriptomic resources, single-cell transcriptomics, genetic findings, proteomics, and clinical phenotypic information, we may better understand how psychiatric risk influences cell-type-specific transcriptional programs and cellular states in the human brain. Such integrative approaches may also help uncover shared and disorder-biased biological alterations across psychiatric diagnoses and contribute to the discovery of potential biomarkers.*
 
-My current research focuses on **cell-type-specific gene expression changes** and **cell-state programs** in psychiatric disorders, with an emphasis on major depressive disorder. I am particularly interested in integrating **single-cell transcriptomic data**, **postmortem brain expression profiles**, **proteomic data**, and **genetic findings** to identify disease-associated molecular signatures and potential biomarkers.
+&ensp;&ensp;My current research focuses on **cell-type-specific gene expression changes** and **cell-state programs** in psychiatric disorders, with an emphasis on major depressive disorder. I am particularly interested in integrating **single-cell transcriptomic data**, **postmortem brain expression profiles**, **proteomic data**, and **genetic findings** to identify disease-associated molecular signatures and potential biomarkers.
 
-Moving forward, I plan to investigate psychiatric disorders through cross-disorder and cross-region single-cell analyses, particularly in major depressive disorder, schizophrenia, and bipolar disorder. I aim to explore shared and disorder-biased cellular changes underlying psychiatric symptoms, and to interpret post-GWAS signals by linking genetic risk variants to **cell-type-specific gene expression**, regulatory programs, and disease-associated cellular states.
+&ensp;&ensp;Moving forward, I plan to investigate psychiatric disorders through cross-disorder and cross-region single-cell analyses, particularly in major depressive disorder, schizophrenia, and bipolar disorder. I aim to explore shared and disorder-biased cellular changes underlying psychiatric symptoms, and to interpret post-GWAS signals by linking genetic risk variants to **cell-type-specific gene expression**, regulatory programs, and disease-associated cellular states.
 
-In parallel, I am interested in applying spatial technologies such as **Visium HD** and **CODEX** to further refine brain atlases of psychiatric disorders. Through this work, I hope to contribute to a more mechanistic and clinically relevant understanding of mental illness, from **genetic variation** to **transcriptional dysregulation**, **altered cellular states**, and **potential translational biomarkers**.
+&ensp;&ensp;In parallel, I am interested in applying spatial technologies such as **Visium HD** and **CODEX** to further refine brain atlases of psychiatric disorders. Through this work, I hope to contribute to a more mechanistic and clinically relevant understanding of mental illness, from **genetic variation** to **transcriptional dysregulation**, **altered cellular states**, and **potential translational biomarkers**.
 
 ---
