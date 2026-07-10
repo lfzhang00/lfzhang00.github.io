@@ -7,7 +7,7 @@ title: Awards
 ## Scholarships
 - Jun 2026: China Scholarship Council (CSC) Scholarship
 - Sep 2025: Outstanding Graduate Student of  Wuhan University
-- Sep 2025: First Prize Scholarship of Wuhan University
+- Sep 2025: First-Class Scholarship of Wuhan University
 - Oct 2021: Outstanding Social Practice Team Award of  Central South University
 - Sep 2019: Outstanding Student Scholarship of Central South University
 - Sep 2019: First-Class Scholarship of Central South University
