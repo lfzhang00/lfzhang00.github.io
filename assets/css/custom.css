@@ -1,5 +1,5 @@
 /* Keep page content comfortably wide on large desktop displays. */
-@media only screen and (min-width: 86.375em) {
+@media only screen and (min-width: 75em) {
   .page #main article {
     display: inline;
     float: left;
