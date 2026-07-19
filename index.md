@@ -14,7 +14,7 @@ I was a Visiting Student at the **Institute of Science and Technology for Brain-
 
 My research focuses on understanding **<font color="#1F4E79">cell-type-specific gene expression changes</font>**, **<font color="#1F4E79">cell-state programs</font>**, and identifying potential biomarkers in psychiatric disorders through **<font color="#1F4E79">single-cell transcriptomics</font>** and **<font color="#1F4E79">multi-omics integration</font>**.<br>
 
-I am expected to join the **Integrated Program in Neuroscience (IPN)** at **McGill University** as a PhD student, supervised by **[Prof. Gustavo Turecki](https://www.mcgill.ca/psychiatry/gustavo-turecki)**. My PhD research is expected to focus on **<font color="#1F4E79">single-cell transcriptomics</font>** and **<font color="#1F4E79">molecular profiling of major depressive disorder</font>**.<br>
+I will be joining the **Integrated Program in Neuroscience (IPN)** at **McGill University** as a PhD student, supervised by **[Prof. Gustavo Turecki](https://www.mcgill.ca/psychiatry/gustavo-turecki)**. My PhD research is expected to focus on **<font color="#1F4E79">single-cell transcriptomics</font>** and **<font color="#1F4E79">molecular profiling of major depressive disorder</font>**.<br>
 
 <strong><font color="#8B1E1E">If you’re interested in collaborating or learning more about my work, feel free to contact me at <a href="mailto:lingfeng.zhang2@email.mcgill.ca"><i>lingfeng.zhang2@email.mcgill.ca</i></a>.</font></strong><br>
 
