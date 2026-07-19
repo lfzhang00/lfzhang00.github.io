@@ -1,4 +1,4 @@
-# [Lingfeng Zhang](https://lancelotzhang0124.github.io/)'s  personal academic blog.
+# [Lingfeng Zhang](https://lfzhang00.github.io/)'s  personal academic blog.
 
 Here is **Lingfeng Zhang (Lingfeng, 张凌风)**. Here is my personal website.
 

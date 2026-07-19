@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://lancelotzhang0124.github.io/Lingfeng.jpg" class="floatpic" width="360">
+<img src="/Lingfeng.jpg" class="floatpic" width="360">
 
 Here is **[<font color="#8B1E1E">Lingfeng Zhang</font>](https://scholar.google.ca/citations?user=NTIw1VIAAAAJ&hl=en)** (**<font color="#8B1E1E">张凌风</font>**; pronounced: **<font color="#8B1E1E">“Ling-fung Jang”</font>**).<br>
 
