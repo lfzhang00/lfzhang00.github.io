@@ -9,7 +9,7 @@ title: Publications
 <strong>*</strong>: Corresponding author
 </blockquote>
 
-<h2>Journal Papers</h2>
+<h2>Seleceted Publications</h2>
 
 <ul>
 
